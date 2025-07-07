@@ -53,7 +53,7 @@ Install PuLP via:
 
 ```bash
 pip install pulp
-
+```
 ---
 
 ## 🧰 Understanding the Model
