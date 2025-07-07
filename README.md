@@ -57,11 +57,11 @@ pip install pulp
 ---
 
 ## 🧰 Understanding the Model
-# **Decision Variables**: ship[warehouse][store][product] – integer units shipped.
+# Decision Variables: ship[warehouse][store][product] – integer units shipped.
 
-# **Objective Function**: Minimize total shipping cost across all routes.
+# Objective Function: Minimize total shipping cost across all routes.
 
-# **Constraints**:
+# Constraints:
 
 1. ∑ shipments from warehouse ≤ warehouse stock (for each product)
 
